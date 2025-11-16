@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAD Codes</string>
+    <string name="welcome_message">Welcome to Mobile Application Development!</string>
+    <string name="click_me">Click Me</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
